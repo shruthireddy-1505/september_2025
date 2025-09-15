@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shruthireddy-1505/september_2025/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shruthireddy-1505/september_2025/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/shruthireddy-1505/september_2025/tree/master/0171-excel-sheet-column-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shruthireddy-1505/september_2025/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
