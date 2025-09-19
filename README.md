@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shruthireddy-1505/september_2025/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shruthireddy-1505/september_2025/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/shruthireddy-1505/september_2025/tree/master/0507-perfect-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shruthireddy-1505/september_2025/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2507-number-of-common-factors](https://github.com/shruthireddy-1505/september_2025/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/shruthireddy-1505/september_2025/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shruthireddy-1505/september_2025/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
