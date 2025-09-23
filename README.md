@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shruthireddy-1505/september_2025/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shruthireddy-1505/september_2025/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shruthireddy-1505/september_2025/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/shruthireddy-1505/september_2025/tree/master/0258-add-digits) |
